@@ -1,4 +1,4 @@
-# label-test
-test
+# Trigger CI on labelled
 
-will trigger later
+
+* First commit - don't run CI
