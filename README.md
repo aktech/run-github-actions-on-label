@@ -2,3 +2,4 @@
 
 
 * First commit - don't run CI
+* Second commit - don't run CI AGAIN
